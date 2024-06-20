@@ -1,0 +1,10 @@
+vitoria 41 3
+felipe 52 7
+lais 63 2
+thales 74 6
+clara 85 1
+raul 96 8
+beatriz 107 4
+vinicius 118 9
+aline 129 5
+pedro 130 3

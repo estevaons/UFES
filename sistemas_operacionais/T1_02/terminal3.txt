@@ -1,0 +1,10 @@
+fernanda 31 5
+andre 42 2
+natalia 53 8
+leonardo 64 1
+luiza 75 4
+guilherme 86 7
+mariana 97 3
+paulo 108 6
+carolina 119 9
+gustavo 120 5

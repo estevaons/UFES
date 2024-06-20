@@ -1,0 +1,10 @@
+caio 11 3
+ana 22 5
+marcio 33 2
+lucas 44 8
+carla 55 1
+pedro 66 4
+isabela 77 6
+rodrigo 88 9
+beatriz 99 7
+joao 10 3

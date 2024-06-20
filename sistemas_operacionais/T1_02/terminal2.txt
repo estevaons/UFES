@@ -1,0 +1,10 @@
+rafaela 21 4
+gabriel 32 6
+sara 43 2
+ricardo 54 8
+julia 65 1
+hugo 76 5
+camila 87 7
+thiago 98 3
+isadora 109 9
+matheus 110 4
