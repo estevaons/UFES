@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/estevaons/CLionProjects/L1/complexo.c
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+string.h
+-
+complexo.h
+/home/estevaons/CLionProjects/L1/complexo.h
+
+/home/estevaons/CLionProjects/L1/complexo.h
+
+/home/estevaons/CLionProjects/L1/main.c
+stdio.h
+-
+complexo.h
+/home/estevaons/CLionProjects/L1/complexo.h
+
